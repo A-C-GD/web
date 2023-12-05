@@ -1,59 +1,49 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+Vitae
 
 {% include base_path %}
 
+Summary
+======
+Motivated and goal-orientated young professional with a string work ethic. Currently seeking opportunities to further develop skills and contribute to a dynamic team. Eager to start Social Care in August 2024.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* National 5 in Computing Science, Clydebank High School (2021)
+* National 5 in English, Clydebank High School (2021)
+* National 5 in Mathematics, Clydebank High School (2021)
+* National 5 in Music, Clydebank High School (2021)
+* National 5 in Physics, Clydebank High School (2021)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021 - Spring 2022: *Cashier*
+  * Good & Cheap Chinese Takeaway
+  * Duties included:
+    * Managing cash transactions
+    * Operating the phone
+    * Co-ordinating order distribution
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Volenteer experience
+======
+* Autumn 2023: *Project Volenteer*
+  * Homeless Project Scotland
+  * Duties included:
+    * Packing and distributing food for the homeless community
+    * Engaged in community outreach efforts to raise awareness and support for the project
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Problem Solving
+  * Creative problem-solving
+  * Analytical thinking
+* Time Management
+  * Efficient use of time
+  * Meeting deadlines
